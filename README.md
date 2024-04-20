@@ -1,6 +1,9 @@
 # Unet-Segmentation
 
 This repository contains an implementation of the UNet architecture for image segmentation using TensorFlow. UNet is a popular deep-learning model for image segmentation tasks due to its effectiveness and simplicity.
+<div align='center';>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220614121231/Group14.jpg" width="400" height="300">
+</div>
 
 ### Overview
 UNet is a convolutional neural network architecture designed for biomedical image segmentation tasks, particularly for segmenting structures in microscopy images such as cell nuclei. This repository provides an implementation of UNet using TensorFlow, which can be trained on custom datasets for various segmentation tasks.
